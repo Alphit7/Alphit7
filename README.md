@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sylvain Jacobs</h1>
 <h3 align="center">A Web Dev in the making @Becode</h3>
 
-- 🌱 I’m currently learning **JavaScript**
-
 <p align="left">
 </p>
 
